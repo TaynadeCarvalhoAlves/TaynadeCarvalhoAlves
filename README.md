@@ -14,8 +14,6 @@ React • TypeScript • C# • .NET • SQL Server • MySQL • Python • Git
 
 - 📌 Landing Page Concretizzare
 - 📌 CRUD Usuários
-- 📌 FilmLibrary (em desenvolvimento)
-- 📌 Sistema de Voluntários para Desastres Naturais
 
 ## Contato
 
