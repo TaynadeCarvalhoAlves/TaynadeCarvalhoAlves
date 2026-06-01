@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Oiii, eu sou a Tayna Alves
+# 👋 Hi, I'm Tayna de Carvalho Alves
 
 ### Full Stack Developer
 
-React • C#/.NET • SQL • Python
+### Software Developer | React • ASP.NET Core • SQL
 
 </div>
 
@@ -20,21 +20,11 @@ React • C#/.NET • SQL • Python
 
 ---
 
-## 🗄️ Database & Data
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
-
----
-
 ## 🛠️ Tools & Systems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql" />
 
 </div>
 
