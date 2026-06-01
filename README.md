@@ -1,20 +1,84 @@
-# Olá, eu sou a Tayna Alves 👋
+<div align="center">
 
-### Desenvolvedora Full Stack | React • C#/.NET • SQL
+# 👋 Olá, eu sou a Tayna Alves
 
-💻 Experiência em desenvolvimento de aplicações web utilizando React, C#/.NET, SQL e Python.
+### Full Stack Developer | React • C#/.NET • SQL
 
-🚀 Atualmente focada em projetos Full Stack, freelancing e evolução técnica.
+💻 Desenvolvendo aplicações web escaláveis e soluções para problemas reais.
 
-## Tecnologias
+🚀 Experiência com React, ASP.NET Core, SQL e Python.
 
-React • TypeScript • C# • .NET • SQL Server • MySQL • Python • Git
+📚 Sempre aprendendo e evoluindo como desenvolvedora.
 
-## Projetos em Destaque
+<br>
 
-- 📌 Landing Page Concretizzare
-- 📌 CRUD Usuários
+<a href="https://www.linkedin.com/in/taynaalvess">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Contato
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/taynaalvess)
+---
+
+## 👩‍💻 Sobre mim
+
+- 💼 Experiência profissional com React, C#/.NET e SQL
+- 🌱 Estudando arquitetura de software e boas práticas
+- 🚀 Atuando em projetos Full Stack e freelancing
+- 📊 Conhecimento em Python e Pandas para manipulação de dados
+- 🎯 Buscando oportunidades para crescer como desenvolvedora Full Stack
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,cs,dotnet,python,mysql,git,github,vscode,visualstudio" />
+
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+### 📚 Film Library
+Sistema Full Stack para gerenciamento de filmes utilizando React, ASP.NET Core e Firebase.
+
+### 🏗️ Landing Page Concretizzare
+Landing page profissional desenvolvida para apresentação de serviços de arquitetura.
+
+### 🌎 Sistema de Voluntários para Desastres Naturais
+Projeto acadêmico para cadastro de voluntários e locais utilizando mapa interativo.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TaynadeCarvalhoAlves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynadeCarvalhoAlves&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/taynaalvess">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Obrigada pela visita ao meu perfil!
+
+</div>
