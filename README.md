@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Tayna de Carvalho Alves
 
-### Full Stack Developer
-
 ### Software Developer | React • ASP.NET Core • SQL
 
 </div>
