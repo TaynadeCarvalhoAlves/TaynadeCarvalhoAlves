@@ -22,7 +22,7 @@
 
 <div align="center">
 
-SQL Server • MySQL
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
 
 </div>
 
