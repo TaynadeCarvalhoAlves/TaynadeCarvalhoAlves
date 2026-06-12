@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tayna de Carvalho Alves
 
-### Software Developer | React • ASP.NET Core • SQL
+###Software Developer | C#/.NET • ASP.NET Core • React • SQL
 
 </div>
 
