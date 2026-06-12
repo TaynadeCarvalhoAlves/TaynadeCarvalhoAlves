@@ -22,9 +22,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver" />
+
 </div>
 
 ---
