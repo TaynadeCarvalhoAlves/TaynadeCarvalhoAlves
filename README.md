@@ -12,7 +12,17 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,cs,dotnet,python" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python" />
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+SQL Server • MySQL
 
 </div>
 
@@ -22,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
 
 </div>
 
